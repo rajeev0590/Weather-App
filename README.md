@@ -7,3 +7,6 @@
 • Utilized asynchronous JavaScript (AJAX) to ensure smooth data retrieval without refreshing the page.
 
 • Implemented search functionality to allow users to view weather for any global city.
+
+
+![image alt](https://github.com/rajeev0590/Weather-App/blob/b901389dad23d9d628cf03a4e371ba75bcbd7bb2/assets/Screenshot%20(70).png)
