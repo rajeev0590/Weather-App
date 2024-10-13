@@ -1,5 +1,7 @@
 # Weather-App
 
+Live Demo: https://rajeev0590.github.io/Weather-App/ .
+
 • Designed and implemented a responsive user interface using HTML, CSS, and JavaScript.
 
 • Integrated with a third-party Weather API to retrieve and display accurate weather data.
